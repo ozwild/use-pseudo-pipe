@@ -1,8 +1,9 @@
 {
   "name": "@ozwild/use-pseudo-pipe",
   "version": "1.0.0",
+  "private": false,
   "description": "Quickly pipe functions up chainig them with (promise's) then",
-  "main": "dist/index.ts",
+  "main": "dist/index.d.ts",
   "types": "dist/index.d.ts",
   "files": [
     "/dist"
