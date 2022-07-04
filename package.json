@@ -1,0 +1,25 @@
+{
+  "name": "@ozwild/use-pseudo-pipe",
+  "version": "1.0.0",
+  "description": "Quickly pipe functions up chainig them with (promise's) then",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "javascript",
+    "typescript",
+    "pipe",
+    "pipeline",
+    "chaining",
+    "functions"
+  ],
+  "author": "ozwild",
+  "license": "ISC"
+}
